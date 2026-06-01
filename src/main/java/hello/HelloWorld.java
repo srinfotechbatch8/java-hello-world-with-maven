@@ -33,4 +33,15 @@ public class UserHelp {
 		 
 		 ===
     }
+	
+	public class developer3 {
+    public static void main(String[] args) {
+     
+	 void (){
+		 ----
+		 ---
+		 ===
+		 
+		 ===
+    }
 }
