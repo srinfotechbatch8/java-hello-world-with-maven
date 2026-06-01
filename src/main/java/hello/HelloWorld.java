@@ -44,4 +44,14 @@ public class UserHelp {
 		 
 		 ===
     }
+		public class developer4{
+    public static void main(String[] args) {
+     
+	 void (){
+		 ----
+		 ---
+		 ===
+		 
+		 ===
+    }
 }
