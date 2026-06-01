@@ -22,4 +22,15 @@ public class UserHelp {
 		 
 		 ===
     }
+	
+	public class developer1 {
+    public static void main(String[] args) {
+     
+	 void (){
+		 ----
+		 ---
+		 ===
+		 
+		 ===
+    }
 }
